@@ -1,11 +1,11 @@
 # 第4章：处理器体系结构
 ## 练习题
 ### 4.1
-irmovq $15,%rbx --> 30 F3 0F 00 00 00 00 00 00 00
-rrmovq %rbx,%rcx --> 20 31
-rmmovq %rcx,-3(%rbx) --> 40 13 FF FF FF FF FF FF FF FD
-addq %rbx,%rcx --> 60 31
-jmp Loop --> 70 0C 01 00 00 00 00 00 00
+- irmovq $15,%rbx --> 30 F3 0F 00 00 00 00 00 00 00
+- rrmovq %rbx,%rcx --> 20 31
+- rmmovq %rcx,-3(%rbx) --> 40 13 FF FF FF FF FF FF FF FD
+- addq %rbx,%rcx --> 60 31
+- jmp Loop --> 70 0C 01 00 00 00 00 00 00
 
 
 ### 4.7
