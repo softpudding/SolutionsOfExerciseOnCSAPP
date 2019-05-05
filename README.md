@@ -4,3 +4,7 @@
 - [Chapter 4](Chapter4.md)
 - [Chapter 5](Chapter5.md)
 - [Chapter 9](Chapter9.md)
+
+又：新学期，期中复习。
+
+- [Chapter 8](Chapter8.md)
