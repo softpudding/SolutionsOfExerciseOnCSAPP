@@ -7,4 +7,6 @@
 
 又：新学期，期中复习。
 
+- [Chapter 6](Chapter6.md)
 - [Chapter 8](Chapter8.md)
+- [Chapter 10](Chapter10.md)
